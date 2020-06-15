@@ -56,15 +56,6 @@ $apps = @(
     "Microsoft.ScreenSketch"
     "Microsoft.XboxGamingOverlay"
     "Microsoft.YourPhone"
-
-    # apps which cannot be removed using Remove-AppxPackage
-    #"Microsoft.BioEnrollment"
-    #"Microsoft.MicrosoftEdge"
-    #"Microsoft.Windows.Cortana"
-    #"Microsoft.WindowsFeedback"
-    #"Microsoft.XboxGameCallableUI"
-    #"Microsoft.XboxIdentityProvider"
-    #"Windows.ContactSupport"
 )
 
 foreach ($app in $apps) {
