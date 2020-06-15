@@ -47,7 +47,6 @@ $apps = @(
     "Microsoft.OneConnect"
     "Microsoft.WindowsFeedbackHub"
     "Microsoft.Microsoft3DViewer"
-    #"Microsoft.MSPaint"
     "Microsoft.BingFoodAndDrink"
     "Microsoft.BingHealthAndFitness"
     "Microsoft.BingTravel"
