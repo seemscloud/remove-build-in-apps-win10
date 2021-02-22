@@ -54,7 +54,6 @@ $apps = @(
     "Microsoft.MixedReality.Portal"
     "Microsoft.ScreenSketch"
     "Microsoft.XboxGamingOverlay"
-    "Microsoft.YourPhone"
 )
 
 foreach ($app in $apps) {
